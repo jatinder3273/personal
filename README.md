@@ -1,5 +1,7 @@
 # Getting Started with FlyGo
 
+This project works for Searching hotels in desired location and make booking for it and provide an intrective way to search hotels and provide best offers to the end users.
+
 This project was developed in `React Js Version :- 17.0.1`
 
 ## Node/NPM Versions
